@@ -8,7 +8,7 @@
 
 - 👯 I'm looking to collaborate on **Open source projects and Innovative challengues**
 
-- 👨‍💻 All of my projects are available at **[https://Davito.portfolio_icontrol/](https://Davito.portfolio_icontrol/)**
+<!--- 👨‍💻 All of my projects are available at **[https://Davito.portfolio_icontrol/](https://Davito.portfolio_icontrol/)** -->
 
 - 📄 Know about my experiences **[https://CV_Davito.portfolio_icontrol/](https://CV_Davito.portfolio_icontrol/)**
 
