@@ -2,11 +2,11 @@
 
 ### A creative and innovative developer
 
-- 🔭 I'm currently working on Sodexo **as Information Technology Analyst**
+- 🔭 I'm currently working **as Information Technology Analyst**
 
 - 🌱 I'm currently learning **Data Science and Machine Learning**
 
-- 👯 I'm looking to collaborate on **Open source projects and Innovative challengues**
+- 😃 I'm looking to collaborate on **Open source projects and Innovative challengues**
 
 <!--- 👨‍💻 All of my projects are available at **[https://Davito.portfolio_icontrol/](https://Davito.portfolio_icontrol/)** -->
 
